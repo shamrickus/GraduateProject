@@ -1,0 +1,6 @@
+[submodule "grnn"]
+	path = grnn
+	url = https://github.com/shamrickus/grnn
+[submodule "incubator-tvm"]
+	path = incubator-tvm
+	url = https://github.com/shamrickus/incubator-tvm
