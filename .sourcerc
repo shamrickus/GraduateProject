@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export TVM_HOME=$(pwd)/incubator-tvm
+export PYTHONPATH=$TVM_HOME/python:$TVM_HOME/topi/python:${PYTHONPATH}
